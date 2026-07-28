@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/PURPOSE-EDUCATIONAL-yellow" />
 </p>
 
-<h1 align="center">LOG PROCESSING THREAT CORRELATION PLATFORM</h1>
+<h1 align="center">𝗖𝘆𝘃𝗼𝗿𝗮
+</h1>
 <p align="center"><b>SOC-GRADE LOG ANALYSIS, DETECTION & REPORTING ENGINE (PYTHON)</b></p>
 
 ---
