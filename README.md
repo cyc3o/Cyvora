@@ -16,7 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=26&pause=800&color=FF0000&center=true&vCenter=true&width=650&height=50&lines=PYTHON+SOC+SIMULATION+TOOL;LOG+ANALYSIS+%26+THREAT+DETECTION;MITRE+ATT%26CK+MAPPING+ENGINE;BUILT+FOR+LEARNING+%26+PORTFOLIO" alt="Typing SVG" />
 </p>
 
----
 
 <h2 align="center">OVERVIEW</h2>
 <p align="center">
