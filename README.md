@@ -14,9 +14,6 @@
 
 ## Overview
 
-<p align="center">
-  <img src="https://github.com/cyc3o/ELITE-SOC-ANALYZER/blob/main/img/file_000000002f34720983474b37fdfc865c.png" />
-</p>
 
 Elite SOC Analyzer is a SOC-style log analysis and alerting engine built in Python, made for educational, research, and portfolio use. It shows how SOC tools work under the hood — log ingestion, detection logic, alert generation, risk scoring, MITRE ATT&CK mapping, IOC extraction, and reporting. Not a replacement for enterprise SIEM platforms like Splunk, QRadar, Sentinel, or ELK.
 
