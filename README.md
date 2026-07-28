@@ -7,30 +7,29 @@
   <img src="https://img.shields.io/badge/PURPOSE-EDUCATIONAL-yellow" />
 </p>
 
-<h1 align="center">Log Processing Threat Correlation Platform</h1>
-<p align="center"><b>SOC-Grade Log Analysis, Detection & Reporting Engine (Python)</b></p>
+<h1 align="center">LOG PROCESSING THREAT CORRELATION PLATFORM</h1>
+<p align="center"><b>SOC-GRADE LOG ANALYSIS, DETECTION & REPORTING ENGINE (PYTHON)</b></p>
 
 ---
 
-## Overview
+<h2 align="center">OVERVIEW</h2>
 
+ELITE SOC ANALYZER IS A SOC-STYLE LOG ANALYSIS AND ALERTING ENGINE BUILT IN PYTHON, MADE FOR EDUCATIONAL, RESEARCH, AND PORTFOLIO USE. IT SHOWS HOW SOC TOOLS WORK UNDER THE HOOD — LOG INGESTION, DETECTION LOGIC, ALERT GENERATION, RISK SCORING, MITRE ATT&CK MAPPING, IOC EXTRACTION, AND REPORTING. NOT A REPLACEMENT FOR ENTERPRISE SIEM PLATFORMS LIKE SPLUNK, QRADAR, SENTINEL, OR ELK.
 
-Elite SOC Analyzer is a SOC-style log analysis and alerting engine built in Python, made for educational, research, and portfolio use. It shows how SOC tools work under the hood — log ingestion, detection logic, alert generation, risk scoring, MITRE ATT&CK mapping, IOC extraction, and reporting. Not a replacement for enterprise SIEM platforms like Splunk, QRadar, Sentinel, or ELK.
+<h2 align="center">KEY OBJECTIVE</h2>
 
-## Key Objective
+LEARN REAL-WORLD SOC ANALYST AND BLUE TEAM WORKFLOWS. PRACTICE BUILDING SECURITY TOOLING IN PYTHON. UNDERSTAND ALERT PIPELINES AND SOC REPORTING LOGIC. END UP WITH A REALISTIC, PORTFOLIO-READY CYBERSECURITY PROJECT.
 
-Learn real-world SOC analyst and blue team workflows. Practice building security tooling in Python. Understand alert pipelines and SOC reporting logic. End up with a realistic, portfolio-ready cybersecurity project.
+<h2 align="center">CORE FEATURES</h2>
 
-## Core Features
+LOG FILE ANALYSIS FOR AUTH, SYSTEM, AND GENERIC LOGS. RULE-BASED DETECTION LOGIC. BEHAVIORAL AND ANOMALY DETECTION CONCEPTS. ALERT GENERATION WITH SEVERITY LEVELS. MITRE ATT&CK TECHNIQUE MAPPING. RISK AND SEVERITY SCORING. IOC EXTRACTION FOR IPS, USERS, AND TOR INDICATORS. JSON AND CSV REPORT GENERATION. PERSISTENT MASTER CSV FOR HISTORICAL ALERTS. IOC FEED EXPORT IN JSON. ANALYST-FRIENDLY CLI INTERFACE. MODULAR, CLEAN PYTHON ARCHITECTURE.
 
-Log file analysis for auth, system, and generic logs. Rule-based detection logic. Behavioral and anomaly detection concepts. Alert generation with severity levels. MITRE ATT&CK technique mapping. Risk and severity scoring. IOC extraction for IPs, users, and Tor indicators. JSON and CSV report generation. Persistent master CSV for historical alerts. IOC feed export in JSON. Analyst-friendly CLI interface. Modular, clean Python architecture.
+<h2 align="center">INSTALLATION</h2>
 
-## Installation
-
-**Requirements:** Python 3.x, lightweight commonly-available Python libraries, no enterprise/cloud/paid dependencies.
+**REQUIREMENTS:** PYTHON 3.X, LIGHTWEIGHT COMMONLY-AVAILABLE PYTHON LIBRARIES, NO ENTERPRISE/CLOUD/PAID DEPENDENCIES.
 
 ```bash
-git clone https://github.com/cyc3o/ELITE-SOC-ANALYZER.git
-cd ELITE-SOC-ANALYZER
-python main.py
+GIT CLONE HTTPS://GITHUB.COM/CYC3O/ELITE-SOC-ANALYZER.GIT
+CD ELITE-SOC-ANALYZER
+PYTHON MAIN.PY
 ```
