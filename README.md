@@ -1,83 +1,39 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3.9%2B-BLUE" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-SUCCESS" />
-  <img src="https://img.shields.io/badge/LICENSE-MIT-BLUE" />
+  <img src="https://img.shields.io/badge/PYTHON-3.9%2B-blue" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-blue" />
+  <img src="https://img.shields.io/badge/TYPE-SOC%20TOOLKIT-orange" />
+  <img src="https://img.shields.io/badge/PLATFORM-CLI-lightgrey" />
+  <img src="https://img.shields.io/badge/PURPOSE-EDUCATIONAL-yellow" />
 </p>
 
-<h1 align="center"><b>ʟᴏɢ ᴘʀᴏᴄᴇꜱꜱɪɴɢ ᴛʜʀᴇᴀᴛ ᴄᴏʀʀᴇʟᴀᴛɪᴏɴ ᴘʟᴀᴛꜰᴏʀᴍ</b></h1>
-
-<p align="center">
-  <b>SOC-GRADE LOG ANALYSIS, DETECTION & REPORTING ENGINE (PYTHON)</b>
-</p>
+<h1 align="center">Log Processing Threat Correlation Platform</h1>
+<p align="center"><b>SOC-Grade Log Analysis, Detection & Reporting Engine (Python)</b></p>
 
 ---
 
-## <p align="center"><b>OVERVIEW</b></p>
+## Overview
 
 <p align="center">
   <img src="https://github.com/cyc3o/ELITE-SOC-ANALYZER/blob/main/img/file_000000002f34720983474b37fdfc865c.png" />
 </p>
 
-**ELITE SOC ANALYZER** IS A **SOC-STYLE LOG ANALYSIS AND ALERTING ENGINE** BUILT IN **PYTHON**,  
-DESIGNED FOR **EDUCATIONAL, RESEARCH, AND PORTFOLIO PURPOSES**.
+Elite SOC Analyzer is a SOC-style log analysis and alerting engine built in Python, made for educational, research, and portfolio use. It shows how SOC tools work under the hood — log ingestion, detection logic, alert generation, risk scoring, MITRE ATT&CK mapping, IOC extraction, and reporting. Not a replacement for enterprise SIEM platforms like Splunk, QRadar, Sentinel, or ELK.
 
-THIS PROJECT HELPS USERS UNDERSTAND HOW **SECURITY OPERATIONS CENTER (SOC) TOOLS** WORK INTERNALLY, INCLUDING:
+## Key Objective
 
-- LOG INGESTION  
-- DETECTION LOGIC  
-- ALERT GENERATION  
-- RISK SCORING  
-- MITRE ATT&CK MAPPING  
-- IOC EXTRACTION  
-- REPORT GENERATION  
+Learn real-world SOC analyst and blue team workflows. Practice building security tooling in Python. Understand alert pipelines and SOC reporting logic. End up with a realistic, portfolio-ready cybersecurity project.
 
-❌ **THIS TOOL IS NOT A REPLACEMENT FOR ENTERPRISE SIEM PLATFORMS**  
-*(SPLUNK, QRADAR, MICROSOFT SENTINEL, ELK STACK, ETC.)*
+## Core Features
 
----
+Log file analysis for auth, system, and generic logs. Rule-based detection logic. Behavioral and anomaly detection concepts. Alert generation with severity levels. MITRE ATT&CK technique mapping. Risk and severity scoring. IOC extraction for IPs, users, and Tor indicators. JSON and CSV report generation. Persistent master CSV for historical alerts. IOC feed export in JSON. Analyst-friendly CLI interface. Modular, clean Python architecture.
 
-## <p align="center"><b>🎯 KEY OBJECTIVE</b></p>
+## Installation
 
-🧑‍💻 **LEARN REAL-WORLD SOC ANALYST & BLUE TEAM WORKFLOWS**
-
-- PRACTICE BUILDING SECURITY TOOLING USING PYTHON  
-- UNDERSTAND ALERT PIPELINES & SOC REPORTING LOGIC  
-- CREATE A REALISTIC, PORTFOLIO-READY CYBERSECURITY PROJECT  
-
----
-
-## <p align="center"><b>CORE FEATURES</b></p>
-
-- LOG FILE ANALYSIS (AUTH, SYSTEM, GENERIC LOGS)  
-- RULE-BASED DETECTION LOGIC  
-- BEHAVIORAL & ANOMALY DETECTION CONCEPTS  
-- ALERT GENERATION WITH SEVERITY LEVELS  
-- MITRE ATT&CK TECHNIQUE MAPPING  
-- RISK & SEVERITY SCORING  
-- IOC EXTRACTION (IP ADDRESSES, USERS, TOR INDICATORS)  
-- JSON REPORT GENERATION  
-- CSV REPORT GENERATION  
-- PERSISTENT MASTER CSV (HISTORICAL ALERTS)  
-- IOC FEED EXPORT (JSON)  
-- ANALYST-FRIENDLY CLI INTERFACE  
-- MODULAR & CLEAN PYTHON ARCHITECTURE  
-
----
-
-## <p align="center"><b>INSTALLATION</b></p>
-
-### 📌 REQUIREMENTS
-- 🐍 PYTHON 3.X.X  
-- 📦 LIGHTWEIGHT & COMMONLY AVAILABLE PYTHON LIBRARIES  
-- 🚫 NO ENTERPRISE, CLOUD, OR PAID DEPENDENCIES  
-
----
-
-### 📥 CLONE THE REPOSITORY
+**Requirements:** Python 3.x, lightweight commonly-available Python libraries, no enterprise/cloud/paid dependencies.
 
 ```bash
 git clone https://github.com/cyc3o/ELITE-SOC-ANALYZER.git
 cd ELITE-SOC-ANALYZER
 python main.py
-
-
+```
