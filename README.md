@@ -13,7 +13,7 @@
 <h1 align="center">𝐂ʏᴠᴏʀᴀ</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Python+SOC+Simulation+Tool;Log+Analysis+%26+Threat+Detection;MITRE+ATT%26CK+Mapping+Engine;Built+for+Learning+%26+Portfolio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=26&pause=800&color=FF0000&center=true&vCenter=true&width=650&height=50&lines=PYTHON+SOC+SIMULATION+TOOL;LOG+ANALYSIS+%26+THREAT+DETECTION;MITRE+ATT%26CK+MAPPING+ENGINE;BUILT+FOR+LEARNING+%26+PORTFOLIO" alt="Typing SVG" />
 </p>
 
 ---
